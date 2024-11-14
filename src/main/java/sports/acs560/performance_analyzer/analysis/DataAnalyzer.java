@@ -46,4 +46,5 @@ public class DataAnalyzer {
             .min(Comparator.comparingInt(Team::getPoints))
             .orElse(null));
     }
-}
+    
+  }

@@ -1,0 +1,6 @@
+Mean Points: 87.50
+Median Points: 87.50
+Most Wins Team: Liverpool (21 wins)
+Most Losses Team: Manchester Utd (10 losses)
+Highest Points Team: Liverpool (91 points)
+Lowest Points Team: Manchester Utd (84 points)
